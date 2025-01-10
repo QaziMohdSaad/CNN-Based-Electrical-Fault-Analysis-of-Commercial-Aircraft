@@ -1,5 +1,5 @@
 # CNN-Based-Electrical-Fault-Analysis-of-Commercial-Aircraft
-In this reprository I am going to show my M.Tech Dissertation work whose title was " Artificial Inteeligence Based electrial Fault Analysis of Commercial Aircrfat
+In this reprository I am going to show my M.Tech Dissertation work whose title was " Artificial Inteeligence Based electrial Fault Analysis of Commercial Aircrfat which was done on MATLAB
 # Problem Formulation:
 Ensuring safe and efficient flights is dependent upon the reliable operation of electrical systems in commercial aircraft, as aviation safety is of utmost importance. Within this framework, Artificial Intelligence (AI) applications offer a potential fruitful path toward improving the electrical fault diagnostic procedure in commercial aircraft.
 # Objectives:
@@ -42,5 +42,6 @@ The model was tested with a dataset comprising 220 images, with 20 images for ea
 
 ![image](https://github.com/user-attachments/assets/1bf464f6-47bd-4e78-a4bd-d72168750d98)
 
-![image](https://github.com/user-attachments/assets/7b1fec8b-c43e-45b8-98e5-bf6ffebbf5ae)
+![image](https://github.com/user-attachments/assets/875ad545-bfa0-4155-84d4-819f3136ca78)
+
 
