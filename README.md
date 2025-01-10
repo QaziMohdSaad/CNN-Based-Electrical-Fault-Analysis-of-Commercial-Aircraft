@@ -7,6 +7,6 @@ Ensuring safe and efficient flights is dependent upon the reliable operation of 
 •	Based on information gathered from onboard sensors, the Convolution Neural Network (CNN) model is used in commercial aircraft for electrical defect diagnostic.
 •	Create, train and assess the suggested AI-based fault analysis system using the MATLAB.
 # proposed work flow approach:
-## 1) ADAPT Simulink Model: Advanced Diagnostics and Prognostics Testbed (ADAPT) is NASA Ames Research Centre. It is a open source model which means anyone can use it. Simulink Model of Virtual ADAPT mirrors the real-world hardware subsystems, including power generation, storage, and distribution, as described in the ADAPT testbed. ## 
+## 1) ADAPT Simulink Model: ## Advanced Diagnostics and Prognostics Testbed (ADAPT) is NASA Ames Research Centre. It is a open source model which means anyone can use it. Simulink Model of Virtual ADAPT mirrors the real-world hardware subsystems, including power generation, storage, and distribution, as described in the ADAPT testbed. 
 
 
