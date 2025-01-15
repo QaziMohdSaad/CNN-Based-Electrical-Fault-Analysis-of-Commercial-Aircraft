@@ -13,9 +13,9 @@ Ensuring safe and efficient flights is dependent upon the reliable operation of 
  5) Testing of deep nerual model:
 
 ## 1) ADAPT Simulink Model:
-Advanced Diagnostics and Prognostics Testbed (ADAPT) is NASA Ames Research Centre. It is a open source model which means anyone can use it. Simulink Model of Virtual ADAPT mirrors the real-world hardware subsystems, including power generation, storage, and distribution, as described in the ADAPT testbed. This model serves as a crucial tool for analyzing the system's behavior under various operational scenarios and for testing the performance of different configurations of the electrical architecture
+Advanced Diagnostics and Prognostics Testbed (ADAPT) is NASA Ames Research Centre. It is a open source model which means anyone can use it. Simulink Model of Virtual ADAPT mirrors the real-world hardware subsystems, including power generation, storage, and distribution, as described in the ADAPT testbed. This model serves as a crucial tool for analyzing the system's behavior under various operational scenarios and for testing the performance of different configurations of the electrical architecture. ADAPT Simulink model is used for generate numeric data.
 
-## 2) Numeric Data:
+## 2) Numeric Data:aa
 Numeric Data is generated from ADAPT Simulink Model with the help of GUI of Virtual ADAPT. Fault of sensors can be chosen and injected from the list of faults available in the “Component” menu. From the Virtual ADAPT GUI, fault injection time can be controlled. Modes of faults such as Gain, Nominal, Inception, Bias, and Stuck Condition can be chosen from the “Fault” menu. The amplitude of a fault can be adjusted from the “Magnitude” option. 
 
 In this proposed work, 10 faults have been considered, and have been injected. The sensors sensing these faults are E235 (DC Voltage Sensor), EY160, EY175 (Relay Position Sensor), IT140, IT281 (DC Current Sensor), LT500 (Light Sensor), ST515, ST516 (Position Sensor), and TE128, TE501 (Temperature Sensor). The first simulation is run without any fault, then fault is introduced in the above ten mentioned sensors. 
